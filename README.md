@@ -15,8 +15,8 @@ CANBusGuard is a federated learning system for detecting anomalous driving patte
 ```
 │
 ├──Copie de  pipeline.ipynb
+├──Copie de device1_final_production.ipyn 
 ├──Copie de server_FL.ipynb
-├──Copie de device1_final_production.ipyn
 ├── README.md
 ````
 ## 🚀 Workflow
